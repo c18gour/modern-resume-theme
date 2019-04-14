@@ -1,48 +1,55 @@
 # Site
-repository:
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Χρυσούλα Γουρνάρα
-title: Μαθηματικός
+name: **Χρυσούλα Γουρνάρα**
+title: ΠΕ Υπάλληλος Διοικητικού - Οικονομικου
 email: c18gour@ionio.gr
-phone: +30 6974272324
+phone: +30 2222-222222
+website: Your website (eg. https://google.com)(optional)
 
 # Social links
-github_username:  xrys@
+twitter_username: -
+github_username:  Xrys@
+dribbble_username: -
+facebook_username: -
+flickr_username: -
+instagram_username: -
+linkedin_username: -
+xing_username: -
 pinterest_username: Xrysoulina
-
+youtube_username: -
+googleplus_username: -
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.jpg
+Ονομάζομαι Χρυσούλα Γουρνάρα, έχω σπουδάσει μαθηματικά στο Πανεπιστήμιο Πατρών, εργάζομαι απο το 1998 έως σήμερα στην Εφορεία Αρχαιοτήρων Αχαΐας ως υπάλληλος Π.Ε. Διοικητικού-Οικονομικού
+about_profile_image: images/IMG_20190407.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Ονομάζομαι Χρυσούλα Γουρνάρα. 
-  Εχω σπουδάσει **Μαθηματικά** αλλά εργάζομαι 20 χρόνια στην **Εφορεία Αρχαιοτήτων Αχαΐας** ως Διοικητικός Υπάλληλος Π.Ε.
-  
-  Τα κυριότερα χαρακτηριστικά μου είναι: <mark>η επιμονή</mark> , <mark>η υπομονή</mark> και <mark>η συνεργατικότητα</mark>
+  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+
+  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+    - Lists
+    - Tables
+    - Links
+    - Images
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
 # Experience Section
-# experience_title: Π.Ε. Υπάλληλος Διοικητικού Οικονομικού
+# experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
-# education_title: Πτυχιούχος της Σχολής Θετικών Επιστημών-Τμήματος Μαθηματικών του Πανεπιστημίου Πατρών
+# education_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title:	First Certificate in English (University of Cambridge), Zertifikat B2 (Goethe)
-# more_content: | # this will include new lines to allow paragraphs
- Interests 
-  Εθελόντρια στους Ολυμπιακούς αγώνες του 2004 (Ολυμπιακό Τουρνουά Ποδοσφαίρου στην Πάτρα στην ομάδα του συντονισμού των Φωτογράφων), 
-  Μέλος του Τζάζ φωνητικού σχήματος ‘VOCAL’, 
-  Μαθήματα Κατασκευής Κοσμημάτων με ορείχαλκο ή ασήμι, 
-  Ξένες γλώσσες, 
-  Κινηματογράφος, Διάβασμα, Θέατρο και άλλες παντός είδους πολιτιστικές εκδηλώσεις, 
-  Πεζοπορία, Ταξίδια, Φωτογραφία, 
-  Περιηγήσεις και ταξίδια Αρχαιολογικού Ενδιαφέροντος, Επίσκεψη σε Μουσεία και Αρχαιολογικούς Χώρους 
- 
+# more_title: A Little More About Me #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+
+  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
@@ -57,5 +64,3 @@ sass:
 
 plugins:
  - jekyll-seo-tag
-
-theme: jekyll-theme-cayman
