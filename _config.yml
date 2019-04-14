@@ -1,51 +1,55 @@
 # Site
-repository: c18gour/resume-cv
-# favicon: images/favicon.ico
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
 name: Χρυσούλα Γουρνάρα
 title: Μαθηματικός
 email: c18gour@ionio.gr
-website: www.github.com/sproogen/resume-theme
+phone: +30 6974272324
 
 # Social links
 github_username:  xrys@
-# pinterest_username: Xrysoulina
+pinterest_username: Xrysoulina
+
 
 # About Section
-# about_title: About Me
+# about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Ονομάζομαι Χρυσούλα Γουρνάρα. Εχω σπουδάσει **Μαθηματικά** αλλά εργάζομαι 20 χρόνια στην **Εφορεία Αρχαιοτήτων Αχαΐας** ως Διοικητικός Υπάλληλος Π.Ε.
+  Ονομάζομαι Χρυσούλα Γουρνάρα. 
+  Εχω σπουδάσει **Μαθηματικά** αλλά εργάζομαι 20 χρόνια στην **Εφορεία Αρχαιοτήτων Αχαΐας** ως Διοικητικός Υπάλληλος Π.Ε.
+  
   Τα κυριότερα χαρακτηριστικά μου είναι: <mark>η επιμονή</mark> , <mark>η υπομονή</mark> και <mark>η συνεργατικότητα</mark>
 
 # Projects Section
-# projects_title: Projects
+# projects_title: Projects #(Use this to override about projects section title)
 
 # Experience Section
-# experience_title: 20 χρόνια στην Εφορεία Αρχαιοτήτων Αχαΐας ως υπάλληλος Π.Ε. Διοικητικού-Οικονομικού 
+# experience_title: Π.Ε. Υπάλληλος Διοικητικού Οικονομικού
 
 # Education Section
-# educaton_title: Πτυχιούχος της Σχολής Θετικών Επιστημών-Τμήματος Μαθηματικών του Πανεπιστημίου Πατρών
+# education_title: Πτυχιούχος της Σχολής Θετικών Επιστημών-Τμήματος Μαθηματικών του Πανεπιστημίου Πατρών
 
 # More Section
-# more_title: ◆	First Certificate in English (University of Cambridge), Zertifikat B2 (Goethe)
+# more_title:	First Certificate in English (University of Cambridge), Zertifikat B2 (Goethe)
 # more_content: | # this will include new lines to allow paragraphs
-
- **Ιnterests**
- Εθελόντρια στους Ολυμπιακούς αγώνες του 2004.(Ολυμπιακό Τουρνουά Ποδοσφαίρου στην Πάτρα στην ομάδα του συντονισμού των Φωτογράφων)
- Μέλος του Τζάζ φωνητικού σχήματος ‘VOCAL’, 
- Μαθήματα Κατασκευής Κοσμημάτων με ορείχαλκο ή ασήμι, 
- Ξένες γλώσσες, 
- Κινηματογράφος, Διάβασμα, Θέατρο και άλλες παντός είδους πολιτιστικές εκδηλώσεις, 
- Πεζοπορία, Ταξίδια, Φωτογραφία, 
- Περιηγήσεις και ταξίδια Αρχαιολογικού Ενδιαφέροντος, Επίσκεψη σε Μουσεία και Αρχαιολογικούς Χώρους   
+  **Interests** 
+  Εθελόντρια στους Ολυμπιακούς αγώνες του 2004 (Ολυμπιακό Τουρνουά Ποδοσφαίρου στην Πάτρα στην ομάδα του συντονισμού των Φωτογράφων), 
+  Μέλος του Τζάζ φωνητικού σχήματος ‘VOCAL’, 
+  Μαθήματα Κατασκευής Κοσμημάτων με ορείχαλκο ή ασήμι, 
+  Ξένες γλώσσες, 
+  Κινηματογράφος, Διάβασμα, Θέατρο και άλλες παντός είδους πολιτιστικές εκδηλώσεις, 
+  Πεζοπορία, Ταξίδια, Φωτογραφία, 
+  Περιηγήσεις και ταξίδια Αρχαιολογικού Ενδιαφέροντος, Επίσκεψη σε Μουσεία και Αρχαιολογικούς Χώρους 
+ 
 
 # Footer
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
