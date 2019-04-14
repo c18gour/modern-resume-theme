@@ -3,30 +3,21 @@ repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
+name: Χρυσούλα Γουρνάρα
+title: Μαθηματικός
+email: c18gour@ionio.gr
 website: www.github.com/sproogen/resume-theme
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
+github_username:  xrys@
+# pinterest_username: Xrysoulina
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Ονομάζομαι Χρυσούλα Γουρνάρα. Εχω σπουδάσει **Μαθηματικά** αλλά εργάζομαι 20 χρόνια στην **Εφορεία Αρχαιοτήτων Αχαΐας** ως Διοικητικός Υπάλληλος Π.Ε.
+  Τα κυριότερα χαρακτηριστικά μου είναι: <mark>η επιμονή</mark> , <mark>η υπομονή</mark> και <mark>η συνεργατικότητα</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -40,11 +31,14 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   **Ιnterests**
+◆	Εθελόντρια στους Ολυμπιακούς αγώνες του 2004.(Ολυμπιακό Τουρνουά Ποδοσφαίρου στην Πάτρα στην ομάδα του συντονισμού των Φωτογράφων)
+◆	Μέλος του Τζάζ φωνητικού σχήματος ‘VOCAL’.
+◆	Μαθήματα Κατασκευής Κοσμημάτων με ορείχαλκο ή ασήμι.
+◆	Ξένες γλώσσες.
+◆	Κινηματογράφος, Διάβασμα, Θέατρο και άλλες παντός είδους πολιτιστικές εκδηλώσεις.
+◆	Πεζοπορία, Ταξίδια, Φωτογραφία
+◆	Περιηγήσεις και ταξίδια Αρχαιολογικού Ενδιαφέροντος, Επίσκεψη σε Μουσεία και Αρχαιολογικούς Χώρους.   
 
 # Footer
 footer_show_references: true
