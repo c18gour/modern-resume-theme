@@ -17,13 +17,8 @@ pinterest_username: Xrysoulina
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+  Ονομάζομαι Χρυσούλα Γουρνάρα. Εχω σπουδάσει **Μαθηματικά** αλλά εργάζομαι 20 χρόνια στην **Εφορεία Αρχαιοτήτων Αχαΐας** ως Διοικητικός Υπάλληλος Π.Ε.
+  Τα κυριότερα χαρακτηριστικά μου είναι: <mark>η επιμονή</mark> , <mark>η υπομονή</mark> και <mark>η συνεργατικότητα</mark>
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
