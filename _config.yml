@@ -6,8 +6,8 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Χρυσούλα Γουρνάρα
 title: ΠΕ Υπάλληλος Διοικητικού - Οικονομικου
 email: c18gour@ionio.gr
-phone: +30 2222-222222
-website: Your website (eg. https://google.com)(optional)
+phone: +30 6974272324
+website: https://github.com/c18gour
 
 # Social links
 github_username:  Xrys@
@@ -15,7 +15,7 @@ pinterest_username: Xrysoulina
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-Ονομάζομαι Χρυσούλα Γουρνάρα, έχω σπουδάσει μαθηματικά στο Πανεπιστήμιο Πατρών, εργάζομαι απο το 1998 έως σήμερα στην Εφορεία Αρχαιοτήρων Αχαΐας ως υπάλληλος Π.Ε. Διοικητικού-Οικονομικού
+ Ονομάζομαι Χρυσούλα Γουρνάρα, έχω σπουδάσει μαθηματικά στο Πανεπιστήμιο Πατρών, εργάζομαι απο το 1998 έως σήμερα στην Εφορεία Αρχαιοτήρων Αχαΐας ως υπάλληλος Π.Ε. Διοικητικού-Οικονομικού
 about_profile_image: images/IMG_20190407.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
