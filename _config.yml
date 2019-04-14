@@ -4,7 +4,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Χρυσούλα Γουρνάρα
-title: Π.Ε. Διοικητικός
+title: Μαθηματικός
 email: c18gour@ionio.gr
 phone: +30 6974272324
 
@@ -17,23 +17,25 @@ pinterest_username: Xrysoulina
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Ονομάζομαι Χρυσούλα Γουρνάρα. Εχω σπουδάσει **Μαθηματικά** αλλά εργάζομαι 20 χρόνια στην **Εφορεία Αρχαιοτήτων Αχαΐας** ως Διοικητικός Υπάλληλος Π.Ε.
+  Ονομάζομαι Χρυσούλα Γουρνάρα. 
+  Εχω σπουδάσει **Μαθηματικά** αλλά εργάζομαι 20 χρόνια στην **Εφορεία Αρχαιοτήτων Αχαΐας** ως Διοικητικός Υπάλληλος Π.Ε.
+  
   Τα κυριότερα χαρακτηριστικά μου είναι: <mark>η επιμονή</mark> , <mark>η υπομονή</mark> και <mark>η συνεργατικότητα</mark>
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
 # Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
+# experience_title: Π.Ε. Υπάλληλος Διοικητικού Οικονομικού
 
 # Education Section
-# education_title: Education #(Use this to override about education section title)
+# education_title: Πτυχιούχος της Σχολής Θετικών Επιστημών-Τμήματος Μαθηματικών του Πανεπιστημίου Πατρών
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
+# more_title:	First Certificate in English (University of Cambridge), Zertifikat B2 (Goethe)
 # more_content: | # this will include new lines to allow paragraphs
   **Interests** 
-  Εθελόντρια στους Ολυμπιακούς αγώνες του 2004.(Ολυμπιακό Τουρνουά Ποδοσφαίρου στην Πάτρα στην ομάδα του συντονισμού των Φωτογράφων)
+  Εθελόντρια στους Ολυμπιακούς αγώνες του 2004 (Ολυμπιακό Τουρνουά Ποδοσφαίρου στην Πάτρα στην ομάδα του συντονισμού των Φωτογράφων), 
   Μέλος του Τζάζ φωνητικού σχήματος ‘VOCAL’, 
   Μαθήματα Κατασκευής Κοσμημάτων με ορείχαλκο ή ασήμι, 
   Ξένες γλώσσες, 
