@@ -1,12 +1,12 @@
 # Site
-# repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
 name: Χρυσούλα Γουρνάρα
-title: Μαθηματικός
-email: c18gour@ionio.gr
-phone: +30 6974272324
+title:  Μαθηματικός
+email:  c18gour@ionio.gr
+phone:  +30 6974272324
 
 # Social links
 github_username:  xrys@
